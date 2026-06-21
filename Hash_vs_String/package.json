@@ -1,0 +1,17 @@
+{
+  "name": "hash_vs_string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ioredis": "^5.11.1",
+    "typescript": "^6.0.3"
+  }
+}
